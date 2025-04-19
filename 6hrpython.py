@@ -126,7 +126,7 @@ class Dog(Mammal): # Dog is a subclass of Mammal
 
 class Cat(Mammal): # Cat is a subclass of Mammal
     def walk(self):
-        print("cat walk")
+        print("cat walkingg....")
 
 dog1 = Dog()
 dog1.walk()
